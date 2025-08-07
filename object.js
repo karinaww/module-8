@@ -10,6 +10,7 @@ let person = {
   },
 };
 console.log(person);
+person.greet();
 
 // Задание 2: Доступ к свойствам объекта
 console.log(person.name);
